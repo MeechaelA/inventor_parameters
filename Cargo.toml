@@ -3,10 +3,10 @@ name = "inventor_parameters"
 version = "0.1.0"
 edition = "2021"
 authors = ["Michael Angeles Michael.Angeles@nuntius.us"]
-# description= "A helper library to generate Autodesk compatible parameter files.
-# This library is capable of creating a single, or multiple parameter files. 
-# While you can't automate the connection of Autodesk Inventor models directly, 
-# this library allows you to take your simulations and write parameter files from them!"
+description= """A helper library to generate Autodesk compatible parameter files. 
+ This library is capable of creating a single, or multiple parameter files. 
+ While you can't automate the connection of Autodesk Inventor models directly, 
+ this library allows you to take your simulations and write parameter files from them!"""
 readme = "README.md"
 
 # repository = "https://github.com/rust-lang/cargo/"
